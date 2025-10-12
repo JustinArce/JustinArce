@@ -7,7 +7,7 @@ My academic journey culminated in a **Master's in Big Data & Data Engineering**,
 -   🔭 I’m currently applying my skills to a portfolio of projects that showcase the full data lifecycle, from ingestion and processing to analysis.
 -   🌱 I’m focused on bridging the gap between data engineering and production ML, deepening my practical skills in **containerization (Docker)** and cloud-native deployment patterns.
 -   🎯 My goal is to leverage my unique analytical and engineering background in a challenging **Data Engineer (Cloud) or Machine Learning Engineer** role where I can solve complex problems.
--   💬 Ask me about: **Data Architecture, Apache Spark, Design of Experiments (DOE), Process Optimization, Operations Research or applying a quantitative mindset to data problems.**
+-   💬 Ask me about: **Data Architecture, Data Engineering, Data Pipelines, Design of Experiments (DOE), Process Optimization, Operations Research or applying a quantitative mindset to data problems.**
 
 <!---
 ---
