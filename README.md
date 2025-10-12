@@ -34,8 +34,3 @@ Here are some of the projects I'm working on to build and showcase my skills. *[
 )
 ---
 --->
-### **Connect with me:**
-
-<p align="left">
-<a href="[https://linkedin.com/in/justinarce](https://linkedin.com/in/justinarce)" target="blank"><img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg)" alt="Justin Arce" height="30" width="40" /></a>
-</p>
