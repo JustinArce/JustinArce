@@ -9,6 +9,7 @@ My academic journey culminated in a **Master's in Big Data & Data Engineering**,
 -   🎯 My goal is to leverage my unique analytical and engineering background in a challenging **Data Engineer (Cloud) or Machine Learning Engineer** role where I can solve complex problems.
 -   💬 Ask me about: **Data Architecture, Apache Spark, Design of Experiments (DOE), Process Optimization, Operations Research or applying a quantitative mindset to data problems.**
 
+<!---
 ---
 
 ### **My Tech Stack & Tools**
@@ -24,7 +25,7 @@ Here are some of the key technologies I work with:
 
 ---
 
-<!---(### **Featured Projects**
+### **Featured Projects**
 
 Here are some of the projects I'm working on to build and showcase my skills. *[Nota: A medida que completes los micro-proyectos, reemplaza esto con enlaces a tus repositorios y una breve descripción.]*
 
