@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Justin
+### Hi there 👋 I'm Justin
 
 I'm a **Data Engineer** with a foundation in **Industrial Engineering and optimization**. I apply a first-principles, systems-thinking approach to design and build robust, scalable, and efficient end-to-end data systems.
 
