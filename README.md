@@ -89,7 +89,7 @@ Planned and evolving areas include:
 - **M.S. / Master's in Big Data & Data Engineering** — Universidad Complutense de Madrid
 - **Data Science Specialization** — Tecnológico de Costa Rica
 - **Design of Experiments Specialization** — Arizona State University
-- **Agentic AI** — Johns Hopkins University
+- **Certificate Program in Agentic AI** — Johns Hopkins Whiting School of Engineering
 
 ---
 
